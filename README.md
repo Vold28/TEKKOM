@@ -1,22 +1,9 @@
 # TEKKOM
 
-  spk-calon-kaprodi-react-js
-
-  <p align="center">
-  <a href="https://designrevision.com/downloads/shards-dashboard-lite-react/">
-  <img src="assets/preview.png" width="250" />
-  </a>
-  </p>
-
-  <h1 align="center" style="border-bottom: none !important; margin-bottom: 5px !important;"><a href="https://designrevision.com/downloads/shards-dashboard-lite-react/">Shards Dashboard React</a></h1>
-  <p align="center">
-    <a href="#">
-      <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" />
-    </a>
-    <a href="https://twitter.com/designrevision">
-      <img src="https://img.shields.io/twitter/follow/DesignRevision.svg?style=social&label=Follow" />
-    </a>
-  </p>
+   Internship Project
+    How to edit this repository :
+        1. Download [here](https://github.com/facebook/create-react-app) lalu install** 
+        2. open code > "Open with Github Desktop"
 
   <p align="center">
   A free React admin dashboard template pack featuring a modern design system <br />  and lots of custom templates and components.
