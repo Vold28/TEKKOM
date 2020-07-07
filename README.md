@@ -9,4 +9,4 @@
     
 edit or add some code then commit your update in **master** branch, then push
 
-if there's any update from other person go to ** repository** > **pull in your desktop github** before edit your update
+if there's any update from other person go to **repository** > **pull in your desktop github** before edit your update
