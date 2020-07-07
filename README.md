@@ -6,4 +6,4 @@
         
     <h1>Done</h1> 
     
-    edit or add some code then commit your update in "master" branch
+    edit or add some code then commit your update in "master" branch, then push
