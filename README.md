@@ -2,7 +2,7 @@
 
    Internship Project
     How to edit this repository :
-        <p>1. Download [here](https://github.com/facebook/create-react-app) then install</p>
+        <p>1. Download [here](https://desktop.github.com) then install</p>
         <p>2. open code > "Open with Github Desktop"</P>
 
  Done
